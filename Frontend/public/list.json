@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1, 
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720610339~exp=1720613939~hmac=06d771e7d19862f69b0691dc0a57716d898f49f63f722f81b121af916da7c2e8&w=740"
+    },
+    {
+        "id": 2, 
+        "name": "Comedy Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720610339~exp=1720613939~hmac=06d771e7d19862f69b0691dc0a57716d898f49f63f722f81b121af916da7c2e8&w=740"
+    },
+    {
+        "id": 3, 
+        "name": "Finance Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720610339~exp=1720613939~hmac=06d771e7d19862f69b0691dc0a57716d898f49f63f722f81b121af916da7c2e8&w=740"
+    },
+    {
+        "id": 4, 
+        "name": "Fictional Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720610339~exp=1720613939~hmac=06d771e7d19862f69b0691dc0a57716d898f49f63f722f81b121af916da7c2e8&w=740"
+    },
+    {
+        "id": 5, 
+        "name": "Sci-Fi Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720610339~exp=1720613939~hmac=06d771e7d19862f69b0691dc0a57716d898f49f63f722f81b121af916da7c2e8&w=740"
+    },
+    {
+        "id": 6, 
+        "name": "Drama Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 70,
+        "category": "Drama",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720610339~exp=1720613939~hmac=06d771e7d19862f69b0691dc0a57716d898f49f63f722f81b121af916da7c2e8&w=740"
+    },
+    {
+        "id": 7, 
+        "name": "Music Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 60,
+        "category": "Music",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720610339~exp=1720613939~hmac=06d771e7d19862f69b0691dc0a57716d898f49f63f722f81b121af916da7c2e8&w=740"
+    },
+    {
+        "id": 8, 
+        "name": "Food Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 100,
+        "category": "Food",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720610339~exp=1720613939~hmac=06d771e7d19862f69b0691dc0a57716d898f49f63f722f81b121af916da7c2e8&w=740"
+    },
+    {
+        "id": 9, 
+        "name": "Game Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 20,
+        "category": "Gaming",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720610339~exp=1720613939~hmac=06d771e7d19862f69b0691dc0a57716d898f49f63f722f81b121af916da7c2e8&w=740"
+    },
+    {
+        "id": 1, 
+        "name": "History Book",
+        "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price": 90,
+        "category": "History",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720610339~exp=1720613939~hmac=06d771e7d19862f69b0691dc0a57716d898f49f63f722f81b121af916da7c2e8&w=740"
+    }
+]
